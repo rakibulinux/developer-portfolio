@@ -1,3 +1,21 @@
-p{
-    background-color: aqua;
+.welcome{
+    font-size: 50px;
+}
+
+.rakib-annisa{
+    font-size: 40px;
+}
+
+#rak-an{
+    color: darkorange;
+}
+
+.home-dis{
+    padding: 10px;
+    margin: 20px;
+}
+
+.para-gr{
+    text-align: justify;
+    text-shadow: 10px;
 }
