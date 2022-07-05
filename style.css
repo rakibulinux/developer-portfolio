@@ -1,21 +1,55 @@
-.welcome{
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+h1{
     font-size: 50px;
 }
 
-.rakib-annisa{
-    font-size: 40px;
+.welcome{
+    background-color: aqua;
+
 }
 
-#rak-an{
+#rak-span{
     color: darkorange;
 }
 
-.home-dis{
-    padding: 10px;
-    margin: 20px;
+
+.half-width img {
+    width: 100%;
 }
 
 .para-gr{
+    color: dimgray;
     text-align: justify;
-    text-shadow: 10px;
+}
+
+
+.link-button{
+    color: white;
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
 }
